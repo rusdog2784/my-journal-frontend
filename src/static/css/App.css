@@ -1,0 +1,41 @@
+/* Background colors */
+.bc-beige {
+  background-color: #E1C699 !important;
+}
+
+.bc-red {
+  background-color: #9D5C63 !important;
+}
+
+.bc-blue {
+  background-color: #D6E3F8 !important;
+}
+
+.bc-white {
+  background-color: #FEF5EF !important;
+}
+
+.bc-black {
+  background-color: #0B2027 !important;
+}
+
+/* Font colors */
+.fc-beige {
+  color: #E1C699 !important;
+}
+
+.fc-red {
+  color: #9D5C63 !important;
+}
+
+.fc-blue {
+  color: #D6E3F8 !important;
+}
+
+.fc-white {
+  color: #FEF5EF !important;
+}
+
+.fc-black {
+  color: #0B2027 !important;
+}
