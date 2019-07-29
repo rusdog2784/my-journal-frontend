@@ -33,7 +33,7 @@ export const entryReducer: Reducer<IEntryState, EntryActions> = (
     action
 ) => {
     switch(action.type) {
-        case EntryActionTypes.NEW_ENTRY: {
+        case EntryActionTypes.ADD_ENTRY: {
             return {
                 ...state,
                 entry: action.entry

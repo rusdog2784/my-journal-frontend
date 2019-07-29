@@ -15,7 +15,7 @@ interface IProps {
     store: Store<IAppState>;
 }
 
-const Root: React.SFC<IProps> = props => {
+const Root: React.FunctionComponent<IProps> = props => {
     return (
         <Provider store={props.store}>
             <App />
